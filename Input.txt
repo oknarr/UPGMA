@@ -1,0 +1,9 @@
+Langur Baboon Human Rat Cattle Horse
+0 14 18 38 32 65
+14 0 14 33 39 65
+18 14 0 37 41 64
+38 33 37 0 55 64
+32 39 41 55 0 71
+65 65 64 64 71 0
+
+Amino acid differences in lysozyme protein in various animals
