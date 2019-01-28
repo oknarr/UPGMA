@@ -20,7 +20,12 @@ Langur Baboon Human Rat Cattle Horse
 ```javac Main.java```
 
 # How to Run
-If desired, add custom data to Input.txt (Important: Make sure to add data in exactly the specified format. Else, the program will malfunction.)
-Place the names of the organisms (let's call the total n) to be compared on the first line, separated only by spaces. The next n lines should include a series of n numbers (whole or decimal) representing the differences between organisms. The remaining lines are ignored by the program, and can be used to write comments. 
-In the example in the format section, the second row, second number represents that there are 14 differences between langur and baboon, and the fourth line, fifth column represents that there are 41 differences between cattle and human. Numbers will be repeated, as there are as many differences between a baboon and human as between a human and baboon.
+
 ```java Main```
+# More Info
+
+If desired, add custom data to Input.txt (Important: Make sure to add data in exactly the specified format. Else, the program will malfunction.)
+
+Place the names of the organisms (let's call the total n) to be compared on the first line, separated only by spaces. The next n lines should include a series of n numbers (whole or decimal) representing the differences between organisms. The remaining lines are ignored by the program, and can be used to write comments. 
+
+In the example in the format section, the second row, second number represents that there are 14 differences between langur and baboon, and the fourth line, fifth column represents that there are 41 differences between cattle and human. Numbers will be repeated, as there are as many differences between a baboon and human as between a human and baboon.
